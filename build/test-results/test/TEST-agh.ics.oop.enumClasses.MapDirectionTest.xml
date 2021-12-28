@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="agh.ics.oop.enumClasses.MapDirectionTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-12-28T15:08:45" hostname="MacBook-Air-Damian.local" time="0.047">
+  <properties/>
+  <testcase name="toLilLeft()" classname="agh.ics.oop.enumClasses.MapDirectionTest" time="0.031"/>
+  <testcase name="toRight()" classname="agh.ics.oop.enumClasses.MapDirectionTest" time="0.001"/>
+  <testcase name="toLeft()" classname="agh.ics.oop.enumClasses.MapDirectionTest" time="0.002"/>
+  <testcase name="toMaxLeft()" classname="agh.ics.oop.enumClasses.MapDirectionTest" time="0.001"/>
+  <testcase name="toMaxRight()" classname="agh.ics.oop.enumClasses.MapDirectionTest" time="0.001"/>
+  <testcase name="toLilRight()" classname="agh.ics.oop.enumClasses.MapDirectionTest" time="0.001"/>
+  <testcase name="toBackward()" classname="agh.ics.oop.enumClasses.MapDirectionTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
